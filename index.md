@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 个人简介
 
-You can use the [editor on GitHub](https://github.com/wxidm2/wxidm2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+2005010170周星灿
+### 姓名：周星灿
+性别☞女
+出生年月☞2003/05/20
+籍贯：湖南
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 专业：视觉传达设计
+政治面貌：群众
 
-### Markdown
+电子邮件：2427746404@qq.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+☞
+兴趣爱好：追剧，建模，打游戏，打羽毛球，出去玩
+### 教育背景：大学本科
+主修课程：视觉传达设计
 
-1. Numbered
-2. List
+获奖情况：
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wxidm2/wxidm2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+自我评价：希望自己每一年都有收获，不荒废自己。
